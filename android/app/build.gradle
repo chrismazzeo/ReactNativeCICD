@@ -212,13 +212,13 @@ android {
             include (*reactNativeArchitectures())
         }
     }
-
+/*
     //Signing
     def keystorePropertiesFile = rootProject.file("keystore.properties")
     def keystoreProperties = new Properties()
     keystoreProperties.load(new FileInputStream(keystorePropertiesFile))
     System.out.println("Signin Config: " + keystoreProperties);
-
+*/
     signingConfigs {
         debug {
             storeFile file('debug.keystore')
@@ -227,7 +227,7 @@ android {
             keyPassword 'android'
         }
         release {
-            try {
+          /*  try {
                 storeFile file(keystoreProperties['KEYSTORE_FILE'])
                 storePassword  keystoreProperties['KEYSTORE_PASSWORD']
                 keyAlias keystoreProperties['KEYSTORE_ALIAS']
@@ -235,7 +235,7 @@ android {
             }
             catch (ex) {
                 throw new InvalidParameterException("You should define KEYSTORE_PASSWORD and KEY_PASSWORD in gradle.properties.")
-            }
+            }*/
         }
     }
     buildTypes {
