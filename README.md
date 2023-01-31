@@ -1,7 +1,7 @@
 <!--- 
 [![Build status](https://build.appcenter.ms/v0.1/apps/c1049a87-b866-48c8-868b-3ed00cbbe73d/branches/dev/badge)](https://appcenter.ms)
 -->
-[![Build status](https://build.appcenter.ms/v0.1/apps/b1759048-2b85-4de9-92c8-f8ef54e151f2/branches/dev/badge)](https://appcenter.ms)
+[![Build status](https://build.appcenter.ms/v0.1/apps/afcc0dd6-e114-4480-bdee-c63a264f4a09/branches/dev/badge)](https://appcenter.ms)
 
 
 Android 
