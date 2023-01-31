@@ -1,7 +1,5 @@
-<!--- 
-[![Build status](https://build.appcenter.ms/v0.1/apps/c1049a87-b866-48c8-868b-3ed00cbbe73d/branches/dev/badge)](https://appcenter.ms)
--->
-[![Build status](https://build.appcenter.ms/v0.1/apps/afcc0dd6-e114-4480-bdee-c63a264f4a09/branches/dev/badge)](https://appcenter.ms)
+iOS: [![Build status](https://build.appcenter.ms/v0.1/apps/e5d4a0df-2f59-4cc1-b94f-a6ef4dd37360/branches/dev/badge)](https://appcenter.ms)
+Android: [![Build status](https://build.appcenter.ms/v0.1/apps/afcc0dd6-e114-4480-bdee-c63a264f4a09/branches/dev/badge)](https://appcenter.ms)
 
 
 Android 
